@@ -65,7 +65,7 @@ ARM_PROPS_LOCATION_DB='../conf/databricks_prop.json'
 #  --parameters $ARM_PROPS_LOCATION_DB
 
 
- DATA_LAKE_DWH_NAME='<ENTER_SQL_DWH_NAME>'
+ DATA_LAKE_DWH_NAME='mdw-datalake-dwh'
 # Create a SQL Datawarehouse
 az sql dw create \
  --resource-group $DATA_LAKE_RG \
