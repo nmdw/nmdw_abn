@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "workspaceName": {
-          "value": "<ENTER_NAME_OF_DATABRICKS_INSTANCE>"
+          "value": "mdw-databricks"
         }
     }
 }
